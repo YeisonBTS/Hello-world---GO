@@ -1,1 +1,1 @@
-# Hello-world---GO
+#code of Hello world in GO
